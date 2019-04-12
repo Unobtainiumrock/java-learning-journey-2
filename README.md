@@ -1,4 +1,4 @@
-## Under Construction
+# Under Construction
 I'm in the process of pushing all my local Java code to GitHub. This process includes adding documentation and a README to each section. In my projects I went above and beyond what we were expected to know at this level (for my own sake of taking on a challenge) by leveraging my knowledge of data structures and algorithms. The teacher absolutely loved my passion for doing these extra tidbits.
 
 # Where can you start?
