@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - PrintNumbers",
+      "request": "launch",
+      "mainClass": "PrintNumbers"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Email",
+      "request": "launch",
+      "mainClass": "Email"
+    }
+  ]
+}
